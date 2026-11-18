@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Body of the Calculator -->
+    <path
+        android:fillColor="#334155"
+        android:pathData="M32,22h44c5.5,0 10,4.5 10,10v44c0,5.5 -4.5,10 -10,10h-44c-5.5,0 -10,-4.5 -10,-10v-44c0,-5.5 4.5,-10 10,-10z" />
+
+    <!-- Screen Display Area -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M28,28h52c3.3,0 6,2.7 6,6v12c0,3.3 -2.7,6 -6,6h-52c-3.3,0 -6,-2.7 -6,-6v-12c0,-3.3 2.7,-6 6,-6z" />
+
+    <!-- Text / Math in Display Screen -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M64,36h12v3h-12zM64,43h12v3h-12zM36,36h3v10h-3zM32.5,39.5h10v3h-10z" />
+
+    <!-- Keypad Buttons Row 1 -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M28,56h12c2.2,0 4,1.8 4,4v4c0,2.2 -1.8,4 -4,4h-12c-2.2,0 -4,-1.8 -4,-4v-4c0,-2.2 1.8,-4 4,-4z" />
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M48,56h12c2.2,0 4,1.8 4,4v4c0,2.2 -1.8,4 -4,4h-12c-2.2,0 -4,-1.8 -4,-4v-4c0,-2.2 1.8,-4 4,-4z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M68,56h12c2.2,0 4,1.8 4,4v4c0,2.2 -1.8,4 -4,4h-12c-2.2,0 -4,-1.8 -4,-4v-4c0,-2.2 1.8,-4 4,-4z" />
+
+    <!-- Keypad Buttons Row 2 -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M28,70h12c2.2,0 4,1.8 4,4v4c0,2.2 -1.8,4 -4,4h-12c-2.2,0 -4,-1.8 -4,-4v-4c0,-2.2 1.8,-4 4,-4z" />
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M48,70h12c2.2,0 4,1.8 4,4v4c0,2.2 -1.8,4 -4,4h-12c-2.2,0 -4,-1.8 -4,-4v-4c0,-2.2 1.8,-4 4,-4z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M68,70h12c2.2,0 4,1.8 4,4v4c0,2.2 -1.8,4 -4,4h-12c-2.2,0 -4,-1.8 -4,-4v-4c0,-2.2 1.8,-4 4,-4z" />
+
+    <!-- Operator Symbols on Colored Buttons -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M72,60h4v2h-4zM72,62.5h4v1.5h-4zM72,74h4v2h-4z" />
+
+</vector>
